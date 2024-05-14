@@ -2,11 +2,11 @@
 
 ### Components
 
-RC Car chassis
-2 DC Motor
-L293D Motor Controller
-IR Remote Controller Module
-Arduino Uno
+RC Car chassis <br/>
+2 DC Motor <br/>
+L293D Motor Controller <br/>
+IR Remote Controller Module <br/>
+Arduino Uno <br/>
 4,5V and 9V Battery
 
 ### Arduino Circuit Diagram
