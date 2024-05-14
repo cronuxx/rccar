@@ -7,7 +7,7 @@
 * L293D Motor Controller <br/>
 * IR Remote Controller Module <br/>
 * Arduino Uno <br/>
-* 4,5V and 9V Battery
+* 4,5V for DC Motors and 9V Battery to power Arduino
 
 ### Arduino Circuit Diagram
 
